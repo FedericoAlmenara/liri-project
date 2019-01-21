@@ -1,0 +1,25 @@
+{
+  "name": "liri-project",
+  "version": "1.0.0",
+  "description": "Unit 10 Homework",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoAlmenara/liri-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FedericoAlmenara/liri-project/issues"
+  },
+  "homepage": "https://github.com/FedericoAlmenara/liri-project#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "moment": "^2.23.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
